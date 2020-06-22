@@ -10,3 +10,6 @@ you can log into this site with username:nurulhanimyusof@gmail.com and password 
 the second portal is for all employees to log in and provide their goals and submit. Before they can do this, they need to signup.
 
 all user authentication and database are running on Firebase. 
+
+to log into the portal, follow this link: https://www.blockrantai.dev/littleCaliphKPI.html
+use the same password and username provided if you dont wish to signup
